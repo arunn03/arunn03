@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arunkumar @arunn03
 - 👀 I’m interested in Computer Science
-- 🌱 I’m finished schooling
+- 🌱 I’ve finished schooling
 - 📫 Reach me in mail id iamsarunn03@gmail.com
 
 <!---
